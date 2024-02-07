@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Ex2_WinUI_XAML (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "Ex2_WinUI_XAML (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
